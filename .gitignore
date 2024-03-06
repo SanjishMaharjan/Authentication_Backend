@@ -1,0 +1,17 @@
+# Ignore cache files
+__pycache__/
+.cache/
+
+# Ignore environment files
+env/
+.venv/
+
+# Ignore log files
+log.txt
+
+# Ignore VSCode settings
+.vscode/
+videos
+images
+
+*.keras
